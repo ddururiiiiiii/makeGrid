@@ -101,6 +101,7 @@ function addRow(){
         newRow.appendChild(td);
     })
     tbody.appendChild(newRow);
+    gridTotalCount();
 }
 
 function delRow(){
@@ -122,6 +123,7 @@ function delRow(){
     for(let i = 0; i < rows.length; i++){
         rows[i].cells[0].textContent = i + 1;
     }
+    gridTotalCount();
 }
 
 function checkAllCheckboxes(){
