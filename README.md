@@ -15,13 +15,15 @@
  <ul>
      <li>행 추가/삭제</li>
  </ul>
-
 <br>
 <h2>사용 기술</h2>
  <ul>
      <li>HTML, Javascript, CSS, Bootstrap</li>
  </ul>
 <br>
+<h2>구현 화면</h2>
+*** gif입니다.
+<img src="https://blog.kakaocdn.net/dn/blx4gR/btsGffPCgCD/neta6Zr2J50gDJkETb9XuK/img.png">
 <br>
 <h2>개발일지</h2>
  <ul>
