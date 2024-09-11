@@ -22,8 +22,8 @@
  </ul>
 <br>
 <h2>구현 화면</h2>
-*** gif입니다.
 <img src="https://blog.kakaocdn.net/dn/blx4gR/btsGffPCgCD/neta6Zr2J50gDJkETb9XuK/img.png">
+*** gif (움직이는 이미지) 입니다.
 <br>
 <h2>개발일지</h2>
  <ul>
