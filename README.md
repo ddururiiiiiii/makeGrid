@@ -22,7 +22,9 @@
  </ul>
 <br>
 <h2>구현 화면</h2>
-<img src="https://blog.kakaocdn.net/dn/blx4gR/btsGffPCgCD/neta6Zr2J50gDJkETb9XuK/img.png">
+<img src="https://blog.kakaocdn.net/dn/cWuuHS/btsGesvgvX1/j9XLD9Jk9rPkW1cFwL7KHk/img.gif">
+<img src="https://blog.kakaocdn.net/dn/bZ0W08/btsGefW5oFn/T5i1CsBCw0weQJFYbp7kOk/img.gif">
+<img src="https://blog.kakaocdn.net/dn/cH3jlO/btsGeSmNH8i/gK2KqvNBdgSK8bpSvbkqe0/img.gif">
 *** gif (움직이는 이미지) 입니다.
 <br>
 <h2>개발일지</h2>
